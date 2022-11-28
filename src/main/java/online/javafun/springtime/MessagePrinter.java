@@ -1,9 +1,9 @@
 package online.javafun.springtime;
 
 public class MessagePrinter {
-    private final SimpleMessageProducer messageProducer;
+    private final MessageProducer messageProducer;
 
-    public MessagePrinter(SimpleMessageProducer messageProducer) {
+    public MessagePrinter(MessageProducer messageProducer) {
         this.messageProducer = messageProducer;
     }
 
