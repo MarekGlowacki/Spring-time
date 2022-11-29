@@ -1,5 +1,6 @@
 package online.javafun.springtime;
 
+import online.javafun.springtime.producer.MessageProducer;
 import org.springframework.stereotype.Service;
 
 @Service

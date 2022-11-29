@@ -1,4 +1,4 @@
-package online.javafun.springtime;
+package online.javafun.springtime.producer;
 
 public interface MessageProducer {
     String getMessage();
