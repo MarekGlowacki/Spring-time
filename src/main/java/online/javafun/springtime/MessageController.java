@@ -35,7 +35,7 @@ public class MessageController {
     }
 
     private void printMessage() {
-        messagePrinter.printMesage();
+        messagePrinter.printMessage();
     }
 
     private Option chooseOption() {
